@@ -55,5 +55,6 @@ Ara creare l'arxiu, canvio el uid a alu2.
 Finalment executo el modify, on al final posare l'arxiu ldif que he creat per realitzar els canvis.
 ![a](./img/execucio.png)
 
+Finalment he comprovat que efectivament ha canviat el uid de l'usuari a alu2.
 
 ![a](./img/good.png)
