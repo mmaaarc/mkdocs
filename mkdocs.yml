@@ -31,13 +31,7 @@ extra_css:
 nav: 
 
 - Index:
-    - as.md
-    - llicenciament.md
-    - comandes.md
-    - instalacio.md
-    - restauracio.md
-    - recuperarsistema.md
-    - xarxa.md
+    - index.md
 
 - Sprint 2:
     - sprint2.md
