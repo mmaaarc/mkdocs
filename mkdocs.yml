@@ -1,0 +1,47 @@
+site_name: Sistemes Marc Baiges
+theme:
+  name: material
+  features:
+   - navigation.sidebar
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+extra_css:
+ - css/styles.css
+
+nav: 
+
+- Index:
+    - as.md
+    - llicenciament.md
+    - comandes.md
+    - instalacio.md
+    - restauracio.md
+    - recuperarsistema.md
+    - xarxa.md
+
+- Sprint 2:
+    - sprint2.md
+- Sprint 3:
+    - instalaciodomini.md
+    - gestiodomini.md
+    - ServidorNFS.md
