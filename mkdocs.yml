@@ -42,6 +42,7 @@ nav:
 - Sprint 2:
     - sprint2.md
 - Sprint 3:
+    - sprint-3_index.md
     - instalaciodomini.md
     - gestiodomini.md
     - ServidorNFS.md
