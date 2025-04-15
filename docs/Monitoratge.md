@@ -10,6 +10,23 @@ El monitoratge proporciona informació en temps real sobre l'estat dels sistemes
 
 Els logs són registres detallats de les activitats que es produeixen en un sistema o aplicació. Aquests registres són fonamentals per al monitoratge, ja que proporcionen un historial d'esdeveniments que es poden analitzar per identificar i resoldre problemes. Els logs poden incloure informació sobre errors, advertències, i altres esdeveniments significatius.
 
+## Eina de Monitoratge d'Ubuntu
+
+Ubuntu inclou una eina de monitoratge preinstal·lada que permet als usuaris supervisar el rendiment del sistema i detectar problemes potencials. Aquesta eina proporciona una interfície gràfica per visualitzar mètriques com l'ús de la CPU, la memòria, l'espai de disc, i altres recursos crítics.
+
+### Característiques Principals
+
+- **Supervisió en Temps Real**: Permet veure l'estat actual dels recursos del sistema.
+- **Historial de Mètriques**: Guarda un registre de les mètriques per a l'anàlisi posterior.
+- **Alertes i Notificacions**: Configura alertes per a esdeveniments específics, com l'ús elevat de la CPU o la memòria.
+
+### Com Accedir a l'Eina
+
+L'eina de monitoratge es pot trobar al menú d'aplicacions d'Ubuntu sota el nom "Monitor de Sistema". També es pot accedir a través de la línia de comandes amb l'ordre `gnome-system-monitor`.
+
+![monitoratge](../img/mt.png)
+
+Aquesta eina és essencial per mantenir el sistema en bon estat i assegurar-se que tots els recursos s'utilitzen de manera eficient.
 ## On podem trobar els logs del sistema? 
 
 Els logs a qualsevol sistema Linux els trobem al directori /var/log.
