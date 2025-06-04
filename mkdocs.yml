@@ -30,37 +30,24 @@ extra_css:
 
 nav: 
 
-- Index:
-    - index.md
 
-- Sprint 2:
-    - sprint2.md
-- Sprint 3:
-    - sprint-3_index.md
-    - instalaciodomini.md
-    - gestiodomini.md
-    - ServidorNFS.md
-    - ServidorSAMBA
+- Sprint 3 Ubuntu:
+   - Sprint3.md
 
-- Sprint 4:
-   - RAID.md
-   - RAID1.md
-   - RAID5.md
 
-- Sprint 5:
+
+- Sprint 5 Ubuntu:
   - Monitoratge.md
   - Servidoractualitzacions.md
   - auditoria.md
 
-- Sprint 1 Windows:
-  - windows.md
 
-- Sprint 2 Windows: 
-  - windows2.md
+
 
 - Sprint 3 Windows:
   - windows3.md
 
-- Sprint 4 Windows:
-  - windows4.md
-  - EXEMPLE.md
+
+
+- Sprint 5 Windows:
+  - Auditories.md
