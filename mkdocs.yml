@@ -1,4 +1,5 @@
 site_name: Sistemes Marc Baiges
+site_url: https://mmaaarc.github.io/mkdocs/
 theme:
   name: material
   features:
