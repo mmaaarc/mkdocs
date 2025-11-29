@@ -40,7 +40,7 @@ Gestió de processos
     
 *   Aquesta comanda ens dona molta informació per columnes, i ara veurem que vol dir cada columna. PID: Identificador únic del procés. USER: Usuari que inicia el procés. %CPU: Percentatge d'ús del processador. %MEM: Percentatge d'ús de la memòria RAM. COMMAND: Nom de la comanda o programa. ![procesos7](../img/term.png)
 *   En cas d'obrir un nou procés (ex: navegador) aquest ens apareixerà. 
-![procesos8](img/vv.png)
+![procesos8](/img/vv.png)
 *   La prioritat no es pot modificar directament, però amb el NI (nice) si que es pot canviar, contra mes baix es el número més prioritat té. Això es pot fer amb la següent comanda. Val a dir que caldria fer-ho des de el root ja que com sabem ens otorga més privilegis.
 
 `[](#__codelineno-4-1)renice -n -nºprioritat -p PID`
